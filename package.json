@@ -2,6 +2,7 @@
   "name": "alatus-nemeseos",
   "displayName": "Alatus Nemeseos",
   "description": "Simple theme based on Xiao from GI.",
+  "icon": "images/alatus-nemeseos.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
