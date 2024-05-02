@@ -1,0 +1,21 @@
+{
+  "name": "alatus-nemeseos",
+  "displayName": "Alatus Nemeseos",
+  "description": "Simple theme based on Xiao from GI.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alatus Nemeseos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xiao-color-theme.json"
+      }
+    ]
+  }
+}
